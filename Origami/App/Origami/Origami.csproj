@@ -370,7 +370,7 @@
 
   <ItemGroup>
     <ProjectReference Include="C:\Users\giuseppef\Documents\Progetti\Origami\Origami\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
-      <Project>{5699d560-19bc-4583-9d31-cb74f160038b}</Project>
+      <Project>{56d23597-c55c-4572-80d8-eed0b299fdff}</Project>
       <Name>Assembly-CSharp</Name>
       <Private>False</Private>
     </ProjectReference>

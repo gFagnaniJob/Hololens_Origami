@@ -10,7 +10,7 @@ GeneratedProjects\UWP\Assembly-CSharp\project.json: 1D02BC64BAC0D041019673A1C4C5
 GeneratedProjects\UWP\Unity.TextMeshPro\project.json: 1D02BC64BAC0D041019673A1C4C51737
 Origami\App.cs: A3D9218E16EB791950AB69DDA1E12E46
 Origami\AssemblyConverterArgs.txt: D7C42986B41F90DC45E8636BCE107A96
-Origami\Origami.csproj: CAB64D1E4476E9AE4B8026471F32949A
+Origami\Origami.csproj: 62B516B73C9A14935FFDE3507351C419
 Origami\Origami.csproj.user: modified
 Origami\Package.appxmanifest: 88BC550C017DFC0F8D32984A096B12EE
 Origami\project.json: 1D02BC64BAC0D041019673A1C4C51737
